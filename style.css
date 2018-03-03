@@ -1,0 +1,99 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 20vh;
+  color: pink;
+  background-color: green;
+}
+
+nav{
+  display:flex;
+  align-items: center;
+  padding-right: 25vh;
+}
+
+body{
+  background-color: #E6E6FA;
+}
+
+ul{
+  display:flex;
+  justify-content: space-between;
+  width: 30vw;
+  background: purple;
+  padding: 20px;
+  font-color: red;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.navbar:hover {
+  background-color: pink;
+}
+
+.navbar {
+  text-decoration: none;
+}
+
+li{
+  font-weight: bolder;
+  color: green;
+  font-family: monospace;
+}
+
+a:link {
+  color: blue;
+}
+a:visited {
+  color: yellow;
+}
+a:active {
+  color: pink;
+}
+
+.gerlach {
+  color: #BA55D3;
+}
+
+.lomnicak {
+  color: #FF1493;
+}
+
+.strbske {
+  color: #00FF7F
+}
+
+#telo {
+  background-color: #FFA07A;
+}
+
+button {
+  background-color: #DA70D6;
+  font-weight: bold;
+  border: solid;
+  border-color: #663399;
+}
+
+.reference{
+  border: solid;
+  border-color: green;
+}
+
+.whoweare{
+  color: #FFFFFF;
+}
+
+.packing {
+  color: #708090;
+  background-color: #FFF8DC;
+}
+
+.group {
+  color: #FF5733;
+  background-color: #00BFFF;
+}
+
+.individual {
+  color: #0000FF;
+  background-color: #00FF7F;
+}
